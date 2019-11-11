@@ -1,5 +1,0 @@
-C:\Users\Steve\source\repos\SetKeyboardSettings\SetKeyboardSettings\bin\Debug\SetKeyboardSettings.exe
-C:\Users\Steve\source\repos\SetKeyboardSettings\SetKeyboardSettings\bin\Debug\SetKeyboardSettings.pdb
-C:\Users\Steve\source\repos\SetKeyboardSettings\SetKeyboardSettings\obj\Debug\SetKeyboardSettings.csproj.CoreCompileInputs.cache
-C:\Users\Steve\source\repos\SetKeyboardSettings\SetKeyboardSettings\obj\Debug\SetKeyboardSettings.exe
-C:\Users\Steve\source\repos\SetKeyboardSettings\SetKeyboardSettings\obj\Debug\SetKeyboardSettings.pdb
